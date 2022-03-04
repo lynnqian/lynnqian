@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 #### Contact me
 
 - Email: lynnqian2001@yahoo.com
-- LinkedIn: https://www.linkedin.com/in/lynn-qian-0257791bb/?origWebsite: https://lynnqian.github.io/inalSubdomain=ca
+- LinkedIn: https://www.linkedin.com/in/lynn-qian-0257791bb/?origWebsite
 - Website: https://lynnqian.github.io/
