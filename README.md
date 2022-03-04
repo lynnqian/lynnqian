@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lynn Qian's github page
 
 <!--
 **lynnqian/lynnqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently a third year student at University of Toronto
+- Computer Science Specialist and Data Science Specialist
+- Incoming Software Engineering Intern at Intel
+- Participating in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
+
