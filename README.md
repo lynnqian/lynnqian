@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 #### Contact me!
 
 [icons8-linkedin-96](https://user-images.githubusercontent.com/33213104/157266920-563865c9-1101-42a0-b3ba-612ff215896d.png)[1]
+
 [1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
 
 - Email: lynnqian2001@yahoo.com
