@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 - Email: lynnqian2001@yahoo.com
 - Website: https://lynnqian.github.io/
+![icons8-linkedin-48](https://user-images.githubusercontent.com/33213104/157267438-a990aed2-cb35-489f-910c-3d645bf1683a.png)[1]
