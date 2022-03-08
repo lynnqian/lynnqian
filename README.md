@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - Participating in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
 #### Contact me
-[1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
+
+[![icons8-linkedin-48](https://user-images.githubusercontent.com/33213104/157267438-a990aed2-cb35-489f-910c-3d645bf1683a.png)][1]
 
 - Email: lynnqian2001@yahoo.com
 - Website: https://lynnqian.github.io/
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/33213104/157267438-a990aed2-cb35-489f-910c-3d645bf1683a.png)][1]
+- 
+[1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
