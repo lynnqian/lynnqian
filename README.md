@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 #### Contact me
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-
+![icons8-linkedin-480](https://user-images.githubusercontent.com/33213104/157266762-c94bf1ef-8fa8-48eb-a5e5-0cd1df5afda1.png)[1]
 [1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
+
 - Email: lynnqian2001@yahoo.com
 - Website: https://lynnqian.github.io/
