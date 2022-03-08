@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - Incoming Software Engineering Intern at Intel
 - Participating in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
-#### Contact me!
-
-[icons8-linkedin-96](https://user-images.githubusercontent.com/33213104/157266920-563865c9-1101-42a0-b3ba-612ff215896d.png)[1]
+#### Contact me
+![icons8-linkedin-96](https://user-images.githubusercontent.com/33213104/157267143-251d7b5c-18a4-4d89-869e-a5723f95d592.png)[1]
 
 [1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
 
