@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 #### Contact me
 
-![icons8-linkedin-48](https://user-images.githubusercontent.com/33213104/157265878-9aed93a6-ec0b-4554-9799-c3dcaba53986.png)[https://www.linkedin.com/in/lynn-qian-0257791bb/]
+![icons8-linkedin-48](https://www.linkedin.com/in/lynn-qian-0257791bb/)
 
 - Email: lynnqian2001@yahoo.com
 - Website: https://lynnqian.github.io/
