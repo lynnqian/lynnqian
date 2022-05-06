@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :book: Currently a third year student at University of Toronto
+- :book: Third year student at University of Toronto
 - :bookmark_tabs: Computer Science Specialist and Data Science Specialist
 - :briefcase: Incoming Software Engineering Intern at Intel
-- :paperclip: Participating in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
+- :paperclip: Participated in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
 #### Contact me
 
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/33213104/157267438-a990aed2-cb35-489f-910c-3d645bf1683a.png)][1]
+[![linkedin](https://user-images.githubusercontent.com/33213104/157267438-a990aed2-cb35-489f-910c-3d645bf1683a.png)][1]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
+
 
 - Email: lynnqian2001@yahoo.com
 - Website: https://lynnqian.github.io/
 - 
 [1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
+[2]: https://github.com/lynnqian
