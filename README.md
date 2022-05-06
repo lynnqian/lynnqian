@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/33213104/167051302-759c7d39-2564-4b3e-a9f4-fea005087e86.png)][1]
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
 
-
+<a href="https://www.linkedin.com/in/lynn-qian-0257791bb">
+         <img src="https://user-images.githubusercontent.com/33213104/167051563-43985fe0-a08f-46ae-abed-2963fe7590a3.png", width="50", height="50">
+</a>
 
 
 - Email: lynnqian2001@yahoo.com
