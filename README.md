@@ -30,11 +30,8 @@ Here are some ideas to get you started:
          <img src="https://user-images.githubusercontent.com/33213104/167052120-f97f17a3-c62b-4f64-ab81-f6999ee600bf.png", width="60", height="60">
 </a>
 
-
-
-
-- Email: lynnqian2001@yahoo.com
-- Website: https://lynnqian.github.io/
+- :email: Email: lynnqian2001@yahoo.com
+- :spider_web: Website: https://lynnqian.github.io/
 
 <!--
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnqian)](https://github.com/lynnqian)
