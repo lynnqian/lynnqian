@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - :paperclip: Participated in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
 #### Contact me
-
-[![icons8-linkedin-circled-480](https://user-images.githubusercontent.com/33213104/167051431-fb1fa448-7562-4b34-a989-2e3cc639fd43.png)][1]
+[![icons8-linkedin-circled-144](https://user-images.githubusercontent.com/33213104/167051563-43985fe0-a08f-46ae-abed-2963fe7590a3.png)][1]
 
 
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/33213104/167051302-759c7d39-2564-4b3e-a9f4-fea005087e86.png)][1]
