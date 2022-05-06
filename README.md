@@ -11,8 +11,7 @@
 
 #### Languages
 
-<Python>-<MESSAGE>-<yellow>
-[![Python](https://img.shields.io/badge/Python-level-brightgreen.svg?style=flat-square)]
+![Python](https://img.shields.io/badge/Python-level-brightgreen.svg?style=flat-square)
 Python
 Java
 C
