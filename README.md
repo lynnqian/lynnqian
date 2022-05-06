@@ -20,6 +20,18 @@ Here are some ideas to get you started:
 - :briefcase: Incoming Software Engineering Intern at Intel
 - :paperclip: Participated in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
+#### Languages
+Python
+Java
+C
+Swift
+R
+Javascript
+AWS
+SQL
+
+
+
 #### Contact me!
 
 <a href="https://www.linkedin.com/in/lynn-qian-0257791bb">
