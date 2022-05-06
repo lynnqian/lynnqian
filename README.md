@@ -11,17 +11,15 @@
 
 #### Languages
 
-![Python](https://img.shields.io/badge/Python-level-brightgreen.svg?style=flat-square)
-Python
-Java
-C
-Swift
-R
-Javascript
-AWS
-SQL
-
-
+![Python](https://img.shields.io/badge/Python-green.svg?style=flat-square)
+![Java](https://img.shields.io/badge/Java-brightgreen.svg?style=flat-square)
+![C](https://img.shields.io/badge/C-yellow.svg?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-blue.svg?style=flat-square)
+![R](https://img.shields.io/badge/R-red.svg?style=flat-square)
+![Javascript](https://img.shields.io/badge/Javascript-lightgrey.svg?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-orange.svg?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-ff69b4.svg?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-yellowgreen.svg?style=flat-square)
 
 #### Contact me!
 
