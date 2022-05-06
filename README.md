@@ -30,6 +30,12 @@ Here are some ideas to get you started:
          <img src="https://user-images.githubusercontent.com/33213104/167052120-f97f17a3-c62b-4f64-ab81-f6999ee600bf.png", width="60", height="60">
 </a>
 
+<a href="https://www.facebook.com/lynnqianyufan">
+         <img src="https://user-images.githubusercontent.com/33213104/167063116-335fd36c-d755-4af9-b69a-a60cced39719.png", width="60", height="60">
+</a>
+
+
+
 - :email: Email: lynnqian2001@yahoo.com
 - :spider_web: Website: https://lynnqian.github.io/
 
