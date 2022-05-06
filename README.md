@@ -26,8 +26,9 @@ Here are some ideas to get you started:
          <img src="https://user-images.githubusercontent.com/33213104/167051909-7b1db387-6298-4b84-92b2-32ac6b37faef.png", width="60", height="60">
 </a>
 
-[![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/33213104/167051302-759c7d39-2564-4b3e-a9f4-fea005087e86.png)][1]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
+<a href="https://www.instagram.com/lynnn_qian/?hl=en">
+         <img src="https://user-images.githubusercontent.com/33213104/167052120-f97f17a3-c62b-4f64-ab81-f6999ee600bf.png", width="60", height="60">
+</a>
 
 
 
