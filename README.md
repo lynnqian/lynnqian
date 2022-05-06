@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 #### Contact me
 
+[![icons8-linkedin-circled-480](https://user-images.githubusercontent.com/33213104/167051431-fb1fa448-7562-4b34-a989-2e3cc639fd43.png)][1]
+
 
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/33213104/167051302-759c7d39-2564-4b3e-a9f4-fea005087e86.png)][1]
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
