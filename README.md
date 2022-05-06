@@ -20,24 +20,20 @@ Here are some ideas to get you started:
 - :briefcase: Incoming Software Engineering Intern at Intel
 - :paperclip: Participated in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
-#### Contact me
-[![icons8-linkedin-circled-144](https://user-images.githubusercontent.com/33213104/167051563-43985fe0-a08f-46ae-abed-2963fe7590a3.png)][1]
+#### Contact me!
 
-<img src="https://user-images.githubusercontent.com/33213104/167051563-43985fe0-a08f-46ae-abed-2963fe7590a3.png", width="50", height="50">[1]
+<a href="https://www.linkedin.com/in/lynn-qian-0257791bb">
+         <img src="https://user-images.githubusercontent.com/33213104/167051909-7b1db387-6298-4b84-92b2-32ac6b37faef.png", width="60", height="60">
+</a>
 
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/33213104/167051302-759c7d39-2564-4b3e-a9f4-fea005087e86.png)][1]
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
 
-<a href="https://www.linkedin.com/in/lynn-qian-0257791bb">
-         <img src="https://user-images.githubusercontent.com/33213104/167051563-43985fe0-a08f-46ae-abed-2963fe7590a3.png", width="50", height="50">
-</a>
+
 
 
 - Email: lynnqian2001@yahoo.com
 - Website: https://lynnqian.github.io/
-- 
-[1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
-[2]: https://github.com/lynnqian
 
 <!--
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnqian)](https://github.com/lynnqian)
