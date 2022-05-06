@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [1]: https://www.linkedin.com/in/lynn-qian-0257791bb/
 [2]: https://github.com/lynnqian
 
+<!--
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnqian)](https://github.com/lynnqian)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnqian&layout=compact)](https://github.com/lynnqian)
