@@ -37,8 +37,8 @@
 
 
 
-- :email: Email: lynnqian2001@yahoo.com
-- :spider_web: Website: https://lynnqian.github.io/
+:email: Email: lynnqian2001@yahoo.com <br>
+:spider_web: Website: https://lynnqian.github.io/
 
 <!--
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnqian)](https://github.com/lynnqian)
