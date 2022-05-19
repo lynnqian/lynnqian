@@ -39,8 +39,3 @@
 
 :email: Email: lynnqian2001@yahoo.com <br>
 :spider_web: Website: https://lynnqian.github.io/
-
-<!--
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnqian)](https://github.com/lynnqian)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnqian&layout=compact)](https://github.com/lynnqian)
