@@ -6,7 +6,7 @@
 
 - :book: Third year student at University of Toronto
 - :bookmark_tabs: Computer Science Specialist and Data Science Specialist
-- :briefcase: Incoming Software Engineering Intern at Intel
+- :briefcase: Software Engineering Intern at Intel
 - :paperclip: Participated in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
 #### Languages
