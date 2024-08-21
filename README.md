@@ -4,8 +4,8 @@
 **lynnqian/lynnqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- :briefcase: SDE at AWS Neuron
 - :book: Recently graduated from the University of Toronto with a degree in Computer Science
-- :briefcase: Previous SDE Intern at Amazon Robotics + SWE Intern at Intel
 - :paperclip: Participated in the research project “Network Protocols for the Internet of Things” with Professor Peter Marbach
 
 #### Languages
